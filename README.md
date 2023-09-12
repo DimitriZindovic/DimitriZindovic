@@ -2,18 +2,19 @@
 
 ### Je suis actuellement étudiant en 2ème année à l'**IIM** Digital School
 
-### Petites infos sur moi :
+## Petites infos sur moi :
 
 - Fan de tennis 🎾
 
 - Passionné par les nouvelles technologies 📱
 
-### 💻 Mes langages:
+## Mes langages de prédilection:
 
-### Contacts :
+## Stats Github :
 
-- ✉️ Mail : dimitri.zindovic@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitri-zindovic-22456924b/)
+## Contacts :
+
+✉️ Mail : dimitri.zindovic@gmail.com
 
 ### Ajoutez-moi sur Likedln :
 
