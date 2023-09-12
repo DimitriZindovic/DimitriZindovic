@@ -14,6 +14,8 @@
 
 ## Stats Github :
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriZindovic&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ## Contacts :
 
 ✉️ Mail : dimitri.zindovic@gmail.com
