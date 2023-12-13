@@ -2,6 +2,8 @@
 
 <h3> Je suis actuellement étudiant en 2ème année à l'IIM Digital School </h3>
 
+<h3> Je recherche une alternance en tant que Développeur Full Stack </h3>
+
 <h2> Petites infos sur moi : </h2>
 
 - Fan de tennis 🎾
