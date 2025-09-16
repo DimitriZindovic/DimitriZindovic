@@ -24,16 +24,12 @@
 
 <h3> Stats Github : </h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriZindovic&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriZindovic&theme=ambient-gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DimitriZindovic&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DimitriZindovic&theme=ambient-gradient&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3> Contacts : </h3>
 
 ✉️ Mail : dimitri.zindovic@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitri-zindovic-22456924b/)
-
-<h4> Ajoutez-moi sur LinkedIn : </h4>
-
-[![tedf](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/dimitri-zindovic-22456924b/)
