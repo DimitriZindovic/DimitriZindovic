@@ -24,7 +24,7 @@
 
 <h3> Stats Github : </h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriZindovic&theme=ambient-gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriZindovic&theme=ambient-gradient&show_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DimitriZindovic&theme=ambient-gradient&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
